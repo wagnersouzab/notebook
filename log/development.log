@@ -9527,3 +9527,421 @@ Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.
 
 Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 14:20:32 +0000
 Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 177.84.144.43 at 2017-02-21 17:53:31 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 826ms (Views: 815.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/adresses.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:32 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:33 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:33 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:33 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-c5470f948a2ed358a48da37df1dbb50384c9801b086795b1b5ab212c2d3ad24e.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/adresses.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:34 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:35 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 17:53:35 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 177.84.144.43 at 2017-02-21 18:02:00 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 45ms (Views: 44.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/adresses.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:00 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-c5470f948a2ed358a48da37df1dbb50384c9801b086795b1b5ab212c2d3ad24e.css?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/adresses.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:01 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:02 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:02 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:02 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:02 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:02 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:02:03 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/contacts" for 177.84.144.43 at 2017-02-21 18:02:04 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#index as HTML
+  [1m[35mContact Load (1.3ms)[0m  SELECT "contacts".* FROM "contacts"
+  [1m[36mKind Load (0.4ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mKind Load (0.2ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.1ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.2ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered contacts/index.html.erb within layouts/application (1459.0ms)
+Completed 200 OK in 1598ms (Views: 1491.3ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/contacts/new" for 177.84.144.43 at 2017-02-21 18:02:08 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  [1m[36mKind Load (0.3ms)[0m  [1mSELECT "kinds".* FROM "kinds"[0m
+  Rendered contacts/_form.html.erb (39.3ms)
+  Rendered contacts/new.html.erb within layouts/application (56.6ms)
+Completed 200 OK in 146ms (Views: 126.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/contacts/new" for 177.84.144.43 at 2017-02-21 18:19:24 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  [1m[35mKind Load (0.5ms)[0m  SELECT "kinds".* FROM "kinds"
+  Rendered contacts/_form.html.erb (20.7ms)
+  Rendered contacts/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 133ms (Views: 128.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/adresses.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:25 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:25 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:25 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-c5470f948a2ed358a48da37df1dbb50384c9801b086795b1b5ab212c2d3ad24e.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/phones.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/kinds.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/adresses.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/contacts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 177.84.144.43 at 2017-02-21 18:19:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/down-arrow-7783a2e6bb8a01f19c806bf617fc7a30f2b8c44fc4dba4731253e7fa0802ad3b.png" for 177.84.144.43 at 2017-02-21 18:19:27 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/contacts" for 177.84.144.43 at 2017-02-21 18:19:53 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"I3yeJq02bfjgnRJRi9R4tZEFhG5JJFiwPCiDAw/blByORvFlowB6/E8a5XoNXCYj/Scl9nkSdmpxkxxy7mI2JA==", "contact"=>{"name"=>"dlqwh", "email"=>"qehw", "kind_id"=>"1", "adress_attributes"=>{"street"=>"nsdkjsdfkfsjkdf", "city"=>"sdkjfkjsdfkdsj", "state"=>"SP"}, "rmk"=>"afsdfsfd"}, "commit"=>"Enviar"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (6.9ms)[0m  INSERT INTO "contacts" ("name", "email", "kind_id", "rmk", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["name", "dlqwh"], ["email", "qehw"], ["kind_id", 1], ["rmk", "afsdfsfd"], ["created_at", "2017-02-21 18:19:53.830512"], ["updated_at", "2017-02-21 18:19:53.830512"]]
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "adresses" ("street", "city", "state", "contact_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["street", "nsdkjsdfkfsjkdf"], ["city", "sdkjfkjsdfkdsj"], ["state", "SP"], ["contact_id", 15], ["created_at", "2017-02-21 18:19:53.839122"], ["updated_at", "2017-02-21 18:19:53.839122"]]
+  [1m[35m (12.3ms)[0m  commit transaction
+Redirected to https://projects-wagnersb.c9users.io/contacts/15
+Completed 302 Found in 47ms (ActiveRecord: 19.6ms)
+
+
+Started GET "/contacts/15" for 177.84.144.43 at 2017-02-21 18:19:54 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#show as HTML
+  Parameters: {"id"=>"15"}
+  [1m[36mContact Load (0.4ms)[0m  [1mSELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1[0m  [["id", 15]]
+  [1m[35mKind Load (0.1ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered contacts/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 69ms (Views: 51.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/contacts/15/edit" for 177.84.144.43 at 2017-02-21 18:19:56 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#edit as HTML
+  Parameters: {"id"=>"15"}
+  [1m[36mContact Load (0.2ms)[0m  [1mSELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1[0m  [["id", 15]]
+  [1m[35mKind Load (0.2ms)[0m  SELECT "kinds".* FROM "kinds"
+  [1m[36mAdress Load (0.2ms)[0m  [1mSELECT  "adresses".* FROM "adresses" WHERE "adresses"."contact_id" = ? LIMIT 1[0m  [["contact_id", 15]]
+  Rendered contacts/_form.html.erb (11.8ms)
+  Rendered contacts/edit.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 45ms (Views: 43.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 177.84.144.43 at 2017-02-22 12:47:22 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 436ms (Views: 426.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts" for 177.84.144.43 at 2017-02-22 12:47:25 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#index as HTML
+  [1m[35mContact Load (1.3ms)[0m  SELECT "contacts".* FROM "contacts"
+  [1m[36mKind Load (0.5ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.1ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mKind Load (0.3ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.2ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.3ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered contacts/index.html.erb within layouts/application (1637.2ms)
+Completed 200 OK in 1693ms (Views: 1673.4ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/contacts/new" for 177.84.144.43 at 2017-02-22 12:47:29 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#new as HTML
+  [1m[35mKind Load (0.3ms)[0m  SELECT "kinds".* FROM "kinds"
+  Rendered contacts/_form.html.erb (92.1ms)
+  Rendered contacts/new.html.erb within layouts/application (104.2ms)
+Completed 200 OK in 160ms (Views: 137.8ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/contacts" for 177.84.144.43 at 2017-02-22 12:48:20 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"C46tMh3IPNHEuukOmhZGwTNyIUH0SKpppOg+9yT5fQiL1PrSvFb6xFzN+CEfK41omJey7Khf6itmNZe2ZRKEhw==", "contact"=>{"name"=>"Wagner de Souza", "email"=>"wagnersouzab@icloud.com", "kind_id"=>"4", "adress_attributes"=>{"street"=>"Nestor Terra, 534", "city"=>"Cachoeira Sul", "state"=>"RS"}, "rmk"=>"Teste App."}, "commit"=>"Enviar"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "contacts" ("name", "email", "kind_id", "rmk", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["name", "Wagner de Souza"], ["email", "wagnersouzab@icloud.com"], ["kind_id", 4], ["rmk", "Teste App."], ["created_at", "2017-02-22 12:48:20.084077"], ["updated_at", "2017-02-22 12:48:20.084077"]]
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "adresses" ("street", "city", "state", "contact_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["street", "Nestor Terra, 534"], ["city", "Cachoeira Sul"], ["state", "RS"], ["contact_id", 16], ["created_at", "2017-02-22 12:48:20.086367"], ["updated_at", "2017-02-22 12:48:20.086367"]]
+  [1m[35m (14.2ms)[0m  commit transaction
+Redirected to https://projects-wagnersb.c9users.io/contacts/16
+Completed 302 Found in 25ms (ActiveRecord: 15.1ms)
+
+
+Started GET "/contacts/16" for 177.84.144.43 at 2017-02-22 12:48:20 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mContact Load (0.3ms)[0m  [1mSELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1[0m  [["id", 16]]
+  [1m[35mKind Load (0.2ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered contacts/show.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 52ms (Views: 41.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/contacts/16/edit" for 177.84.144.43 at 2017-02-22 12:48:23 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#edit as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mContact Load (0.2ms)[0m  [1mSELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1[0m  [["id", 16]]
+  [1m[35mKind Load (0.3ms)[0m  SELECT "kinds".* FROM "kinds"
+  [1m[36mAdress Load (0.3ms)[0m  [1mSELECT  "adresses".* FROM "adresses" WHERE "adresses"."contact_id" = ? LIMIT 1[0m  [["contact_id", 16]]
+  Rendered contacts/_form.html.erb (11.9ms)
+  Rendered contacts/edit.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 53ms (Views: 50.3ms | ActiveRecord: 0.9ms)
+
+
+Started PATCH "/contacts/16" for 177.84.144.43 at 2017-02-22 12:48:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"d4lnlWl9joSrGJZo08N+WVIExZMQIj92cqOkBpFe/Sj30zB1yONIkTNvh0dW/rXw+eFWPkw1fzSwfg1H0LUEpw==", "contact"=>{"name"=>"Wagner de Souza", "email"=>"wagnersouzab@icloud.com", "kind_id"=>"4", "adress_attributes"=>{"street"=>"Nestor Terra, 534", "city"=>"Cachoeira Sul", "state"=>"RS", "id"=>"14"}, "rmk"=>"Teste App."}, "commit"=>"Enviar", "id"=>"16"}
+  [1m[35mContact Load (0.3ms)[0m  SELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1  [["id", 16]]
+Unpermitted parameter: id
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mAdress Load (0.2ms)[0m  SELECT  "adresses".* FROM "adresses" WHERE "adresses"."contact_id" = ? LIMIT 1  [["contact_id", 16]]
+  [1m[36mSQL (0.6ms)[0m  [1mUPDATE "adresses" SET "contact_id" = ?, "updated_at" = ? WHERE "adresses"."id" = ?[0m  [["contact_id", nil], ["updated_at", "2017-02-22 12:48:26.400228"], ["id", 14]]
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "adresses" ("street", "city", "state", "contact_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["street", "Nestor Terra, 534"], ["city", "Cachoeira Sul"], ["state", "RS"], ["contact_id", 16], ["created_at", "2017-02-22 12:48:26.405853"], ["updated_at", "2017-02-22 12:48:26.405853"]]
+  [1m[36m (29.8ms)[0m  [1mcommit transaction[0m
+Redirected to https://projects-wagnersb.c9users.io/contacts/16
+Completed 302 Found in 47ms (ActiveRecord: 31.3ms)
+
+
+Started GET "/contacts/16" for 177.84.144.43 at 2017-02-22 12:48:26 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[35mContact Load (0.2ms)[0m  SELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1  [["id", 16]]
+  [1m[36mKind Load (0.1ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered contacts/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 45ms (Views: 42.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/contacts" for 177.84.144.43 at 2017-02-22 12:48:28 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#index as HTML
+  [1m[35mContact Load (0.4ms)[0m  SELECT "contacts".* FROM "contacts"
+  [1m[36mKind Load (0.1ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mKind Load (0.1ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.1ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mKind Load (0.2ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered contacts/index.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 156ms (Views: 154.4ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/contacts/16" for 177.84.144.43 at 2017-02-22 12:48:33 +0000
+Cannot render console from 177.84.144.43! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mContact Load (0.2ms)[0m  [1mSELECT  "contacts".* FROM "contacts" WHERE "contacts"."id" = ? LIMIT 1[0m  [["id", 16]]
+  [1m[35mKind Load (0.1ms)[0m  SELECT  "kinds".* FROM "kinds" WHERE "kinds"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered contacts/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 30ms (Views: 28.6ms | ActiveRecord: 0.3ms)
