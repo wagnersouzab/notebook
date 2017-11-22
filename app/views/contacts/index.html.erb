@@ -1,10 +1,11 @@
+<div class='basic-grey'>
 <p id="notice"><%= notice %></p>
 
 <h1><%="#{t('messages.listing')} #{Contact.model_name.human(count: @contacts.count)}" %></h1>
 
 <table>
   <thead>
-    <tr>
+    <tr style="background: "Background: #FFF">
       <th><%= @contacts.model.human_attribute_name("name") %></th>
       <th><%= @contacts.model.human_attribute_name("email") %></th>
       <th><%= @contacts.model.human_attribute_name("kind") %></th>
@@ -15,7 +16,7 @@
 
   <tbody>
     <% @contacts.each do |contact| %>
-      <tr>
+      <tr style="Background: #FFF">
         <td><%= contact.name %></td>
         <td><%= contact.email %></td>
         <td><%= contact.kind.description %></td>
@@ -26,8 +27,11 @@
     <% end %>
   </tbody>
 </table>
+<br>
+<%= paginate @contacts %>
 
 <br>
 
 <%= link_to t('buttons.new'), new_contact_path %>
 <%= link_to t('buttons.back'),root_path %>
+</div>

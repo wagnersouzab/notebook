@@ -2,6 +2,7 @@
   buttons:
     new: Novo
     back: Voltar
+    Back: Voltar
     show: Mostrar
     edit: Editar
     destroy: Apagar
